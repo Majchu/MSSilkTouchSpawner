@@ -1,0 +1,4 @@
+name: MSSilkTouchSpawner
+version: '1.0'
+main: me.majchu.mSSilkTouchSpawner.MSSilkTouchSpawner
+api-version: '1.21'
