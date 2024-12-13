@@ -24,9 +24,6 @@ SilkTouchSpawner is a lightweight Minecraft plugin designed to enhance gameplay 
 - Minecraft version: **1.21.3** (tested)
 - Dependencies: None
 
-## Permissions
-- `silktouchspawner.use`: Allows players to mine and place spawners.
-
 ## Support
 For issues, suggestions, or questions, please create an issue on the [GitHub repository](https://github.com/Majchu/MSSilkTouchSpawner/issues).
 
